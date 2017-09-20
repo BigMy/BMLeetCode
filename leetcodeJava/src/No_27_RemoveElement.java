@@ -3,7 +3,7 @@ public class No_27_RemoveElement {
     public int removeElement(int[] nums, int val) {
 
 
-        
+
 
         int newArrayIdx = 0;
 
