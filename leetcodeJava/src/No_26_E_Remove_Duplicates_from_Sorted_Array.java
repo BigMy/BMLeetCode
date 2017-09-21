@@ -1,4 +1,4 @@
-public class No_26_Remove_Duplicates_from_Sorted_Array {
+public class No_26_E_Remove_Duplicates_from_Sorted_Array {
 
     public int removeDuplicates(int[] nums) {
 
