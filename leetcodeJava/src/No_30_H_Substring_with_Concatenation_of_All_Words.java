@@ -6,6 +6,7 @@ import java.util.Map;
 /**
  * 给一个s串，有多个等长单词组成，给一组单词words，求得在串s中，出现words词组连结情况的起始未知
  * 连结顺序无所谓
+ *
  * 例：
  * s: "barfoothefoobarman"
  * words: ["foo", "bar"]
