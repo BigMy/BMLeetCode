@@ -9,7 +9,7 @@ public class No_46_M_Permutations {
 
     public static void main(String[] args) {
 
-        int[] input = new int[]{1,2,3,4};
+        int[] input = new int[]{1,2,3};
 
         System.out.println("input:" + Arrays.toString(input));
 
