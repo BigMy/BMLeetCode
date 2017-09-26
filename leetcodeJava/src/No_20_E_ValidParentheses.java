@@ -3,7 +3,7 @@ import java.util.Stack;
 /**
  * Created by BigMy on 2017/9/18.
  */
-public class No_20_ValidParentheses {
+public class No_20_E_ValidParentheses {
 
     public boolean isValid(String s) {
 

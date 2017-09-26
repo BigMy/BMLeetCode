@@ -3,12 +3,13 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class No_17_Letter_Combinations_of_a_Phone_Number {
+public class No_17_M_Letter_Combinations_of_a_Phone_Number {
 
 
     public static void main(String[] args) {
 
         String input = "23";
+        Integer.valueOf(input);
         System.out.println("input:" + input);
         List<String> result = letterCombinations(input);
         for (String s : result)
