@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class No_M_60_Permutation_Sequence {
+public class No_60_M_Permutation_Sequence {
 
     /**
      * 总数是n!个
@@ -66,6 +66,6 @@ public class No_M_60_Permutation_Sequence {
     }
 
     public static void main(String args[]) {
-        System.out.println(new No_M_60_Permutation_Sequence().getPermutation(5, 9));
+        System.out.println(new No_60_M_Permutation_Sequence().getPermutation(5, 9));
     }
 }
